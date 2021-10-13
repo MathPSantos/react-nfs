@@ -1,0 +1,43 @@
+
+<EnviarLoteRpsEnvio xmlns="http://www.abrasf.org.br/nfse" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><LoteRps Id="1"><NumeroLote>1</NumeroLote><Cnpj>07687467000109</Cnpj><InscricaoMunicipal>71368</InscricaoMunicipal><QuantidadeRps>1</QuantidadeRps><ListaRps><Rps><InfRps Id="rps:2020082016225443"><IdentificacaoRps><Numero>000000000003868</Numero><Serie>001</Serie><Tipo>1</Tipo></IdentificacaoRps><DataEmissao>2020-08-20T16:22:54.430-03:00</DataEmissao><NaturezaOperacao>1</NaturezaOperacao><OptanteSimplesNacional>1</OptanteSimplesNacional><IncentivadorCultural>2</IncentivadorCultural><Status>1</Status><Servico><Valores><ValorServicos>1487.70</ValorServicos><ValorDeducoes>0</ValorDeducoes><ValorPis>0</ValorPis><ValorCofins>0</ValorCofins><ValorInss>0</ValorInss><ValorIr>0</ValorIr><ValorCsll>0</ValorCsll><IssRetido>2</IssRetido><ValorIss>44.6300</ValorIss><BaseCalculo>1487.7000</BaseCalculo><Aliquota>0.0300</Aliquota><ValorLiquidoNfse>1487.70</ValorLiquidoNfse><DescontoIncondicionado>0</DescontoIncondicionado><DescontoCondicionado>0</DescontoCondicionado></Valores><ItemListaServico>1401</ItemListaServico><CodigoTributacaoMunicipio>1401</CodigoTributacaoMunicipio><Discriminacao>SERVICO DE MONTAGEM - R$ 0,00 | SERVICO DE PINTURA - R$ 0,00 | ALINHAMENTO - R$ 0,00 | AFERIR ARO TRAS ESQ - R$ 0,00 | AFERIR ARO DIANT ESQ - R$ 1.487,70 | AGREGADO PINTURA - R$ 0,00 | AGREGADO FUNILARIA - R$ 0,00 | SERVICO DE MECANICA - R$ 0,00 | SERVICO DE FUNILARIA - R$ 0,00 | SERVICO DE ESTETICA - R$ 0,00 | Total aproximado de tributos federais, estaduais e municipais: R$ 163,65
+N SINISTRO: 104202007212894
+VEICULO: GM ONIX
+PLACA: FND-6484</Discriminacao><CodigoMunicipio>3170107</CodigoMunicipio></Servico><Prestador><Cnpj>07687467000109</Cnpj><InscricaoMunicipal>71368</InscricaoMunicipal></Prestador><Tomador><IdentificacaoTomador><CpfCnpj><Cnpj>92682038013007</Cnpj></CpfCnpj></IdentificacaoTomador><RazaoSocial>Bradesco Auto RE Cia de Seguros</RazaoSocial><Endereco><Endereco>Avenida Afonso Pena</Endereco><Numero>1571</Numero><Bairro>Nossa Senhora Aparecida</Bairro><CodigoMunicipio>3170206</CodigoMunicipio><Uf>MG</Uf><Cep>38400706</Cep></Endereco><Contato><Email>drp@bradescoseguros.com.br</Email></Contato></Tomador></InfRps></Rps></ListaRps></LoteRps><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#1"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Ony9ogqWRITAnjyL8JlUoWSa39k=</DigestValue></Reference></SignedInfo><SignatureValue>smFdUVdAXahlXzGYFaAS0VDdKsLPFXhxJ40ImV1rnidiiqECG/cwIqHJhOsPTfF/Wdko9KfEKLnp
+JFL3/xovOPSMkNDXMJ5PCN8SS95cPuJnP3oYYxCOsgwk1uM3NZRKIu7j3tDgM3zeDp6wRviqC9E4
+lTx7ZA6KTLNUVmhA/B+HgueecLDQociweZW9soLtG4zbP1SqK8HUR3vrlqndYW0IxLCXUcGIU4lP
+gNr0F8x56OqcKgR66W30tYkS1YK617SSfJunOQbiDVxw/PAkZiJjGdnszFgMtz9bLc8zhuJcC+I3
+1pdo3uWh8R4bT7iCGwObSHxEpT0vUd1hcCo3bA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHtTCCBZ2gAwIBAgIIbM7Kdkb5ttUwDQYJKoZIhvcNAQELBQAwczELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEXMBUGA1UEAxMOQUMgTElOSyBSRkIgdjIwHhcNMTkxMjA2MTY1ODE4
+WhcNMjAxMjA2MTY1ODE4WjCB6zELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAk1HMRAwDgYDVQQHEwdV
+QkVSQUJBMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMTYwNAYDVQQLEy1TZWNyZXRhcmlhIGRhIFJlY2Vp
+dGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsTDVJGQiBlLUNOUEogQTExFzAVBgNV
+BAsTDjIxNjEyMDAzMDAwMTU2MT8wPQYDVQQDEzZUUklBVVRPIE1PVE9SUyBDRU5UUk8gQVVUT01P
+VElWTyBFSVJFTEk6MDc2ODc0NjcwMDAxMDkwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQC7VhtuVMZYPFQ9BDp7Pyt0LjcgndJxMN5/BwCubN1RS6f7LtwoklkuS244mF0185jyU2lTUc8/
+GtKmlHXQpveAJiH/QBTDSEhFkhBRNV16GN4UYn+n+SkrPb3MTVXTT9k/ij+r6s6xK4lqL6YlzCt1
+Tkl8B1YQkCTyx4HNg8uQHf5lQ5mortIafNRLvf5rB29YsQ/nqWUgNvBC+yZvk9S4IKVAFX5WhAv+
+wg0lGiG6CrVjjId9ujqQ62ivqNubZjvQOcHQ4xbEn4uQ513YO801PoVvwNBpfiuPkJ0tSXBYSrvc
+Mo4p8rAPlChjcGaTxxbwN3HR6FlO8P5XmzxD03LzAgMBAAGjggLSMIICzjAfBgNVHSMEGDAWgBQN
+39ZH9BNO5SJYMixmpucu5Fe8AjAOBgNVHQ8BAf8EBAMCBeAwbgYDVR0gBGcwZTBjBgZgTAECATsw
+WTBXBggrBgEFBQcCARZLaHR0cDovL3JlcG9zaXRvcmlvLmxpbmtjZXJ0aWZpY2FjYW8uY29tLmJy
+L2FjLWxpbmtyZmIvYWMtbGluay1yZmItcGMtYTEucGRmMIGwBgNVHR8EgagwgaUwUKBOoEyGSmh0
+dHA6Ly9yZXBvc2l0b3Jpby5saW5rY2VydGlmaWNhY2FvLmNvbS5ici9hYy1saW5rcmZiL2xjci1h
+Yy1saW5rcmZidjUuY3JsMFGgT6BNhktodHRwOi8vcmVwb3NpdG9yaW8yLmxpbmtjZXJ0aWZpY2Fj
+YW8uY29tLmJyL2FjLWxpbmtyZmIvbGNyLWFjLWxpbmtyZmJ2NS5jcmwwgZUGCCsGAQUFBwEBBIGI
+MIGFMFIGCCsGAQUFBzAChkZodHRwOi8vcmVwb3NpdG9yaW8ubGlua2NlcnRpZmljYWNhby5jb20u
+YnIvYWMtbGlua3JmYi9hYy1saW5rcmZidjUucDdiMC8GCCsGAQUFBzABhiNodHRwOi8vb2NzcC5s
+aW5rY2VydGlmaWNhY2FvLmNvbS5icjCBtQYDVR0RBIGtMIGqgRVUUklBVVRPTUBURVJSQS5DT00u
+QlKgIwYFYEwBAwKgGhMYRkFCSU8gREUgU09VWkEgVkVORVpJQU5PoBkGBWBMAQMDoBATDjA3Njg3
+NDY3MDAwMTA5oDgGBWBMAQMEoC8TLTAyMDIxOTgxMDEzMjcxNzc2MDkwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwHQYDVR0lBBYwFAYIKwYBBQUHAwIG
+CCsGAQUFBwMEMAkGA1UdEwQCMAAwDQYJKoZIhvcNAQELBQADggIBACMdZsCTDcBbaM+yvV8bhe+i
+/r7IPYiZlp8FNsffMPEjm49OIHvswXR2ecxNA+ynjXgZzWd0tDgt6utBvwFv5FUrfyM8RRg/PJzR
+4EWvS+4vdrqP6UKpNIrDhdo8UATOuXRXJ6gKdgTum/uArEDjoUq5uoQh0b9/IkCkpRy39X1Me43k
+eHy9SB+8vdK1En1Z0mVTIvjvSrYRXzle6jICQjhL5wmfNE/ICdpF85m9fMrJk/lWIEO5PJvA//8y
+pjcPO+Qmy7nqkun+lnJa2VNQWD8LY6UCi6tiBHdLRnGGE8PD9rVCM69a/eVpmU/xrQPHRWUhHfwL
+lqrYCNnp8GJrhsr8EB/Z6Rs/MW2dg4FB4aAz2/X2DBZP+s5VermgpvRy20nSHX23GQ9IDKpDEjHo
+kCcbkgutTeX1HmyAJ+2S7B/RgDPq8SVdQotMYO1LBhJbWyY0bc4LLfHQN4D4EEfx/9SO9Ghl92DX
+VkCCfZM6OTP51jwFI+lUapPpA2/CxFdp1gmvhBLfWhX6HH1jUjENMbR3IAcVdd3+b8vNjPHxtrvB
+NYkWO5mFBBGaskeqkrq6X1lRt+WhVBtWb2nlzul38FjAOllis11rvnQG6zI9TLHqip2oiNs3XRGW
+IMjmDcujjRJ/H7CcWCYu18hDvMkOk2UljjCj65KVUUi5NVv5CuAK</X509Certificate></X509Data></KeyInfo></Signature></EnviarLoteRpsEnvio>

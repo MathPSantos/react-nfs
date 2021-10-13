@@ -1,0 +1,274 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe31200712073542000173550010000085941264114518" versao="4.00">
+            <ide>
+                <cUF>31</cUF>
+                <cNF>26411451</cNF>
+                <natOp>Venda</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>8594</nNF>
+                <dhEmi>2020-07-01T17:21:20-03:00</dhEmi>
+                <dhSaiEnt>2020-07-01T17:21:20-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3106705</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-e Ultracar Web</verProc>
+            </ide>
+            <emit>
+                <CNPJ>12073542000173</CNPJ>
+                <xNome>FLAVIO CENTRO AUTOMOTIVO EIRELI</xNome>
+                <xFant>FLAVIO CENTRO AUTOMOTIVO EIRELI</xFant>
+                <enderEmit>
+                    <xLgr>Rua Alice Gomes Teixeira</xLgr>
+                    <nro>300</nro>
+                    <xCpl>COMERCIAL</xCpl>
+                    <xBairro>Santa Cruz</xBairro>
+                    <cMun>3106705</cMun>
+                    <xMun>Betim</xMun>
+                    <UF>MG</UF>
+                    <CEP>32667378</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>3135920071</fone>
+                </enderEmit>
+                <IE>0016122860042</IE>
+                <IM>125403001</IM>
+                <CRT>1</CRT>
+            </emit>
+            <dest>
+                <CPF>52601005653</CPF>
+                <xNome>JOSE ALVES GASPAR</xNome>
+                <enderDest>
+                    <xLgr>RUA RIO BRANCO</xLgr>
+                    <nro>185</nro>
+                    <xCpl>CASA</xCpl>
+                    <xBairro>SANTA CRUZ</xBairro>
+                    <cMun>3106705</cMun>
+                    <xMun>Betim</xMun>
+                    <UF>MG</UF>
+                    <CEP>32667310</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>31995356899</fone>
+                </enderDest>
+                <indIEDest>9</indIEDest>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>20W50SYNTIUM</cProd>
+                    <cEAN>7891414396154</cEAN>
+                    <xProd>OLEO MOTOR</xProd>
+                    <NCM>27101932</NCM>
+                    <CFOP>5405</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>4.0000</qCom>
+                    <vUnCom>18.0000</vUnCom>
+                    <vProd>72.00</vProd>
+                    <cEANTrib>7891414396154</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>4.0000</qTrib>
+                    <vUnTrib>18.0000</vUnTrib>
+                    <vDesc>2.00</vDesc>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMSSN500>
+                            <orig>0</orig>
+                            <CSOSN>500</CSOSN>
+                        </ICMSSN500>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>99</CST>
+                            <vBC>70.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>99</CST>
+                            <vBC>70.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="2">
+                <prod>
+                    <cProd>WO240</cProd>
+                    <cEAN>7798001699332</cEAN>
+                    <xProd>FILTRO OLEO</xProd>
+                    <NCM>84212300</NCM>
+                    <CFOP>5405</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>19.0000</vUnCom>
+                    <vProd>19.00</vProd>
+                    <cEANTrib>7798001699332</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>19.0000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMSSN500>
+                            <orig>0</orig>
+                            <CSOSN>500</CSOSN>
+                        </ICMSSN500>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>99</CST>
+                            <vBC>19.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>99</CST>
+                            <vBC>19.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0</vBC>
+                    <vICMS>0</vICMS>
+                    <vICMSDeson>0</vICMSDeson>
+                    <vFCPUFDest>0</vFCPUFDest>
+                    <vICMSUFDest>0</vICMSUFDest>
+                    <vICMSUFRemet>0</vICMSUFRemet>
+                    <vFCP>0</vFCP>
+                    <vBCST>0</vBCST>
+                    <vST>0</vST>
+                    <vFCPST>0</vFCPST>
+                    <vFCPSTRet>0</vFCPSTRet>
+                    <vProd>91.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>2.00</vDesc>
+                    <vII>0</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>89.00</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>9</modFrete>
+            </transp>
+            <pag>
+                <detPag>
+                    <tPag>01</tPag>
+                    <vPag>89.00</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>1454</infCpl>
+            </infAdic>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#NFe31200712073542000173550010000085941264114518">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>FP1IFsrPijDJo/ciCWHT/FcITd8=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>AtYWl4KzcAbvzBXCPWA73Ht5xJywTrjIFOlAAeFaiMTCk87vWqukRnmgTABfOIl5t3kTfYWV1Wsv /Irazl410qAh5QOfcQKN9ESYNS6NEBOr4r6gAD6gpvb6cAJz1Cyw+4Zm1z2TOrhTYOwjoTz/4HnK iGgJcaCiTh6aTQ40aGe6HKp3LFePuIQRL59Bgrarp0HMgF1wCRDhGByVF7XpBkcJu+L0mSHeNRTX hYvg02au9HwNYmRp4hChVBK8pvBGhxoR3k7b+de/CJiqTNxGYDl8IURi2VnKFcMaQAGoVkpZW5X4 sats8j3bp4t8mriGlQvzI4E6dMRnA94OMnaIgw==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>MIIH3zCCBcegAwIBAgIIWGsgAzFAQ6IwDQYJKoZIhvcNAQELBQAwgYkxCzAJBgNVBAYTAkJSMRMw
+EQYDVQQKEwpJQ1AtQnJhc2lsMTQwMgYDVQQLEytBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgUmFp
+eiBCcmFzaWxlaXJhIHYyMRIwEAYDVQQLEwlBQyBTT0xVVEkxGzAZBgNVBAMTEkFDIFNPTFVUSSBN
+dWx0aXBsYTAeFw0yMDAzMzExODI5MDJaFw0yMTAzMzExMzQ1MDBaMIH3MQswCQYDVQQGEwJCUjET
+MBEGA1UEChMKSUNQLUJyYXNpbDE0MDIGA1UECxMrQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFJh
+aXogQnJhc2lsZWlyYSB2MjESMBAGA1UECxMJQUMgU09MVVRJMRswGQYDVQQLExJBQyBTT0xVVEkg
+TXVsdGlwbGExFzAVBgNVBAsTDjI0NzgzMzI5MDAwMTM0MRowGAYDVQQLExFDZXJ0aWZpY2FkbyBQ
+SiBBMTE3MDUGA1UEAxMuRkxBVklPIENFTlRSTyBBVVRPTU9USVZPIEVJUkVMSToxMjA3MzU0MjAw
+MDE3MzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALnO+0u4XLPR1RJPgg0rz9192o0C
+UxnTx5V7ZCX0PUNtTV2Emb2mU7qrdQ3BTRId5u1Zi2TtRonEXoSojIL7Oc0bITmMexapqhFKee+4
+9X0ztmtAo61FdVkMkz/xWRIkLyUXLnzoUvezcR5TJB1Xc24YZnHsihyqYRbIhpnSn89IY3Teof6P
+RuL80rCgxW3tX8nebSbAlPXVHp4BtccHq6ruUfnaR+agQglqFm0SQA82hGw+Qb1pBSZfE8nfvsj7
+9v5ZLhi4i9XgHoit2gSHTH1y5nbEyV72dsh7mRo34PSkXjECsZHBtZg977q3q2BDvG0pcV8Cr8tD
+BhIQhfz0iF8CAwEAAaOCAtkwggLVMFQGCCsGAQUFBwEBBEgwRjBEBggrBgEFBQcwAoY4aHR0cDov
+L2NjZC5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5wN2IwHQYDVR0O
+BBYEFC04KkHvIkVvakdYsnPO2aow9W/lMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUNa4xFPZe0npP
+WP40qBpnlwrEmwcwXgYDVR0gBFcwVTBTBgZgTAECASYwSTBHBggrBgEFBQcCARY7aHR0cHM6Ly9j
+Y2QuYWNzb2x1dGkuY29tLmJyL2RvY3MvZHBjLWFjLXNvbHV0aS1tdWx0aXBsYS5wZGYwgd4GA1Ud
+HwSB1jCB0zA+oDygOoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1t
+dWx0aXBsYS12MS5jcmwwP6A9oDuGOWh0dHA6Ly9jY2QyLmFjc29sdXRpLmNvbS5ici9sY3IvYWMt
+c29sdXRpLW11bHRpcGxhLXYxLmNybDBQoE6gTIZKaHR0cDovL3JlcG9zaXRvcmlvLmljcGJyYXNp
+bC5nb3YuYnIvbGNyL0FDU09MVVRJL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5jcmwwDgYDVR0PAQH/
+BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBwQYDVR0RBIG5MIG2gR1maW5h
+bmNlaXJvZmxhdmlvQHlhaG9vLmNvbS5icqAnBgVgTAEDAqAeExxGTEFWSU8gREUgQ0FTVFJPIFZB
+U0NPTkNFTE9ToBkGBWBMAQMDoBATDjEyMDczNTQyMDAwMTczoDgGBWBMAQMEoC8TLTI3MDIxOTgw
+MDEyMjQyODQ2MzEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAXBgVgTAEDB6AOEwwwMDAwMDAw
+MDAwMDAwDQYJKoZIhvcNAQELBQADggIBAByxjOcZuR1jk/P9/tVHm2knZOqEqTylVVTd4flGxR6z
+CzjLe0WOV16cpY+uXhK5xk+Pq13SQA1uDl2/gol4fv8l2pwxTVlXtHibz31jpflwuGcbysxmwNSD
+dSi3Bif7mZ4UFgCV4NGMFBMtk3g6Qfk/XzF32lsktQAzy2cQdDobV6rlmhEHv3/zS0K/MSliRR1z
+c3krPwvMPlIE/KAZfukzIXQqhDO82yXPhSPv/XA7UMvffx+4g8vd7OxkeUBiKa0xBAtZYINuNacq
+h3CfggbSBgnrrrdAy9n1W6XhfjyZhbu/ADL2+tPQqMLZHEMte57wi1Y9w1Km1UKOYXdFTwbnKFei
+Tllz0RENCzhW1HR2SkQ07yUkwqTEEQbRO+/fUEOPQHES1P4Hl/+kgvorzCwJMtb/Jh98/erjJHT0
+qli2rgtdecIXEAO82Ew+QloXLAozGzK1XEnTHHMXz6lALf4/2WxfQCEFGILAdS2/BhdOc1xJmg8Y
+EdHZhMEmOzYwteEUfp9yGXgft2T6FhqKV0n9DHvhxtTnm6Vn5IwewXWN3xMDSUQp5QjwuQnuGNhR
+WzdLugEjfbkQAkI4HyO6UsyQJzAn5WmQ+hhk3q/eNE8/qBdYWovf5R4+HxJHHY/K8xdPJmk+j/rm
+uVrtSWKADQWNvi2IWisjbh6/pv0IhTG6</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <chNFe>31200712073542000173550010000085941866795882</chNFe>
+            <dhRecbto>2020-07-01T17:40:17-03:00</dhRecbto>
+            <nProt>131203731265009</nProt>
+            <digVal>zxPO1vq2p4swxtkkbchYQgwRQOs=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
